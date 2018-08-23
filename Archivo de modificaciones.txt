@@ -1,2 +1,7 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 Nicole Aceves Ramírez.
+Yaquie Guadalupe Contreras Torres
+El repositorio remoto actualizado se puede encontrar en las url's
+https://github.com/cuenta_persona1/tarea_colaborativo
+
+https://github.com/cuenta_persona2/tarea_colaborativo"
